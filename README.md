@@ -1,14 +1,17 @@
----
-description: 이 저장소는 공부한 기술들을 정리하는 TIL 저장소입니다.
----
-
 # TIL
 
-{% page-ref page="spring.md" %}
+### Test Code
 
-{% page-ref page="clean-code/" %}
+| title | link |
+| :--- | :--- |
+| Java | [링크](java.md) |
 
-{% page-ref page="java.md" %}
+### Book Study
+
+| title | link |
+| :--- | :--- |
+| 토비의 스프 | [링크](spring/) |
+| 클린 코 | [링크](clean-code/) |
 
 
 
