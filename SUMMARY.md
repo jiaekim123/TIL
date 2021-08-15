@@ -3,6 +3,7 @@
 * [TIL](README.md)
 * [Dev Tools](dev-tools/README.md)
   * [Gradle](dev-tools/gradle.md)
+  * [Gradle Multimodule](dev-tools/gradle-multimodule.md)
 * [대세는 쿠버네티스](kubernetes/README.md)
   * [1강. Why Kubernetes?](kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](kubernetes/untitled.md)
