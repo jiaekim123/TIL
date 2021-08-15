@@ -9,6 +9,8 @@
 | title | link |
 | :--- | :--- |
 | Java | [링크](java.md) |
+| Kubernetes | [링크](kubernetes-1/) |
+| Spring | [링크](spring-1.md) |
 
 ### 2. 책 공부
 
@@ -21,7 +23,7 @@
 
 | title | link |
 | :--- | :--- |
-| 대세는 쿠버네티스\[초급-중급\] |  |
+| 대세는 쿠버네티스\[초급-중급\] | [링크](kubernetes/) |
 
 
 

@@ -7,7 +7,8 @@
   * [1강. Why Kubernetes?](kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](kubernetes/untitled.md)
   * [3강. Getting started - Kubernetes](kubernetes/3-.-getting-started-kubernetes.md)
-  * [4강. Getting started - Kubernetes - 실습](kubernetes/4-.-getting-started-kubernetes.md)
+  * [4강. Getting started - Kubernetes - 실습 \(1\)](kubernetes/4-.-getting-started-kubernetes.md)
+  * [4강. Getting started - Kubernetes - 실습 \(2\)](kubernetes/4-.-getting-started-kubernetes-2.md)
   * [5강. Kubernetes Overview](kubernetes/5-.-kubernetes-overview.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
@@ -15,4 +16,7 @@
   * [1장. 깨끗한 코드](clean-code/1.md)
   * [2장. 네이밍](clean-code/2-..md)
 * [Java](java.md)
+* [Spring](spring-1.md)
+* [Kubernetes](kubernetes-1/README.md)
+  * [Docker hub로 로컬에 Kubernetes 설치하기](kubernetes-1/docker-hub-kubernetes.md)
 
