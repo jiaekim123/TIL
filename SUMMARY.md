@@ -11,6 +11,8 @@
   * [4강. Getting started - Kubernetes - 실습 \(1\)](kubernetes/4-.-getting-started-kubernetes.md)
   * [4강. Getting started - Kubernetes - 실습 \(2\)](kubernetes/4-.-getting-started-kubernetes-2.md)
   * [5강. Kubernetes Overview](kubernetes/5-.-kubernetes-overview.md)
+  * [6강. Pod - Container, Label, NodeSchedule](kubernetes/6-.-pod-container-label-nodeschedule.md)
+  * [7강. Pod 실습](kubernetes/7-.-pod.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
