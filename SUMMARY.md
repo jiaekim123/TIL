@@ -13,6 +13,8 @@
   * [5강. Kubernetes Overview](kubernetes/5-.-kubernetes-overview.md)
   * [6강. Pod - Container, Label, NodeSchedule](kubernetes/6-.-pod-container-label-nodeschedule.md)
   * [7강. Pod 실습](kubernetes/7-.-pod.md)
+  * [8강. Service - ClusterIP, NodePort, LoadBalancer](kubernetes/8-.-service-clusterip-nodeport-loadbalancer.md)
+  * [9강. Service - 실습](kubernetes/9-.-service.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
