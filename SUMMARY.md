@@ -17,6 +17,8 @@
   * [9강. Service - 실습](kubernetes/9-.-service.md)
   * [10장. Volume - emptyDir, hostPath, PV/PVC](kubernetes/10-.-volume-emptydir-hostpath-pv-pvc.md)
   * [11장. Volume 실습](kubernetes/11-.-volume.md)
+  * [12장. ConfigMap, Secret - Env, Mount](kubernetes/12-.-configmap-secret-env-mount.md)
+  * [13장. ConfigMap, Secret - 실습](kubernetes/13-.-configmap-secret.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
