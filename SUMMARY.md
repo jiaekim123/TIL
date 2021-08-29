@@ -19,6 +19,8 @@
   * [11장. Volume 실습](kubernetes/11-.-volume.md)
   * [12장. ConfigMap, Secret - Env, Mount](kubernetes/12-.-configmap-secret-env-mount.md)
   * [13장. ConfigMap, Secret - 실습](kubernetes/13-.-configmap-secret.md)
+  * [14장. Namespace, ResourceQuota, LimitRange](kubernetes/14-.-namespace-resourcequota-limitrange.md)
+  * [15장. Namespace, ResourceQuota, LimitRange - 실습](kubernetes/15-.-namespace-resourcequota-limitrange.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
