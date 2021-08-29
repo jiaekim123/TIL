@@ -39,7 +39,7 @@ description: 'https://kubetm.github.io/k8s/91-cka/ready/'
 
 #### 시험 범위
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 {% embed url="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" %}
 
@@ -64,11 +64,17 @@ description: 'https://kubetm.github.io/k8s/91-cka/ready/'
 * **주의행동** : 문제 풀다가 무의식적으로 입을 가리거나 문제를 입으로 읽었더니 바로 채팅창으로 주의를 줌. 자세한 주의행동에 대해서는 가이드 문서에 행동규칙 참고
 * **작업Cluster** : 기본적으로 Host\(node-1\)에서 \[kubectl config user-context k8s\] 명령을 통해서 원하는 Cluster로 작업 명령을 날림. 시험 문제마다 어떤 클러스터에 연결해서 작업을 하라는 내용이 나와있고, 70%정도가 k8s Cluster에서 작업함. \(ik8s 용도는 쿠버네티스 master, node 설치\), ssh로 연결시 user권한이고, root 권한이 아니기 때문에 sudo -i 명령을 써서 작업하는 경우가 있는데 작업 후 node-1까지 돌아갈려면 exit를 두번 해야함. \(실수로 한번만 해서 worker를 node-1으로 착각할 수 있음\)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 * **콘솔** : 단일 콘솔만 사용가능, 멀티 플렉서 Screen인 tmux을 권장하는데 현재 사용하고 있으면 쓰면 좋을 수 있으나, 아니면 굳이 tmux 사용법을 배워서 써야될만큼 멀티 콘솔로 작업을 해야할 필요성은 못 느꼈음.
 
 
+
+### 강의
+
+* Udemy 강의
+  * [https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+  *  **CKA\(2021\) 1.21 버전**
 
 {% page-ref page="cka.md" %}
 
