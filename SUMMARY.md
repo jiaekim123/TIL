@@ -21,6 +21,7 @@
   * [13장. ConfigMap, Secret - 실습](kubernetes/13-.-configmap-secret.md)
   * [14장. Namespace, ResourceQuota, LimitRange](kubernetes/14-.-namespace-resourcequota-limitrange.md)
   * [15장. Namespace, ResourceQuota, LimitRange - 실습](kubernetes/15-.-namespace-resourcequota-limitrange.md)
+  * [CKA 자격증 개요](kubernetes/cka.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
