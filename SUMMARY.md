@@ -25,6 +25,8 @@
   * [17장. Replication Controller, ReplicaSet - Template, Replicas, Selector - 실습](kubernetes/17-.-replication-controller-replicaset-template-replicas-selector.md)
   * [18장. Deployment - Recreate, RollingUpdate](kubernetes/18-.-deployment-recreate-rollingupdate.md)
   * [19장. Deployement - 실습](kubernetes/19-.-deployement.md)
+  * [20장. DaemonSet, Job, CronJob](kubernetes/20-.-daemonset-job-cronjob.md)
+  * [21장. DaemonSet, Job, CronJob - 실습](kubernetes/21-.-daemonset-job-cronjob.md)
   * [CKA 자격증 개요](kubernetes/cka.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
