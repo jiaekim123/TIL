@@ -32,6 +32,7 @@
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
 * [Clean-Code](clean-code/README.md)
+  * [3장. 함수](clean-code/3-..md)
   * [1장. 깨끗한 코드](clean-code/1.md)
   * [2장. 네이밍](clean-code/2-..md)
 * [Java](java.md)
