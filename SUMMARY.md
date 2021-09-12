@@ -28,6 +28,8 @@
   * [20장. DaemonSet, Job, CronJob](kubernetes/20-.-daemonset-job-cronjob.md)
   * [21장. DaemonSet, Job, CronJob - 실습](kubernetes/21-.-daemonset-job-cronjob.md)
   * [22장. Pod - Lifecycle](kubernetes/22-.-pod-lifecycle.md)
+  * [23장. Pod - ReadinessProbe, LivenessProbe](kubernetes/23-.-pod-readinessprobe-livenessprobe.md)
+  * [24장. Pod - ReadinessProbe, LivenessProbe 실습](kubernetes/24-.-pod-readinessprobe-livenessprobe.md)
   * [CKA 자격증 개요](kubernetes/cka.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
