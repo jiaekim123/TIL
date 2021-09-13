@@ -31,6 +31,8 @@
   * [23장. Pod - ReadinessProbe, LivenessProbe](kubernetes/23-.-pod-readinessprobe-livenessprobe.md)
   * [24장. Pod - ReadinessProbe, LivenessProbe 실습](kubernetes/24-.-pod-readinessprobe-livenessprobe.md)
   * [25장. Pod - QoS Classes](kubernetes/25-.-pod-qos-classes.md)
+  * [26장. Pod - Node Scheduling](kubernetes/26-.-pod-node-scheduling.md)
+  * [27장. Pod - Node Scheduling - 실습](kubernetes/27-.-pod-node-scheduling.md)
   * [CKA 자격증 개요](kubernetes/cka.md)
 * [토비의 스프링](spring/README.md)
   * [1강 오브젝트와 의존관계](spring/toby_1_object_dependency.md)
