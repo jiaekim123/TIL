@@ -57,5 +57,7 @@
   * [27장. Pod - Node Scheduling - 실습](undefined-1/kubernetes/27-.-pod-node-scheduling.md)
   * [28장. Service - Headless, Endpoint, ExternalName](undefined-1/kubernetes/28-.-service-headless-endpoint-externalname.md)
   * [29장. Service - Headless, Endpoint, ExternalName - 실습](undefined-1/kubernetes/29-.-service-headless-endpoint-externalname.md)
+  * [30장. Volume - Dynamic Provisioning, StorageClass, Status, ReclaimPolicy](undefined-1/kubernetes/30-.-volume-dynamic-provisioning-storageclass-status-reclaimpolicy.md)
+  * [31장. Volume - Dynamic Provisioning, StorageClass, Status, ReclaimPolicy](undefined-1/kubernetes/31-.-volume-dynamic-provisioning-storageclass-status-reclaimpolicy.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
 
