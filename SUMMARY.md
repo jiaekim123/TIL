@@ -59,5 +59,12 @@
   * [29장. Service - Headless, Endpoint, ExternalName - 실습](undefined-1/kubernetes/29-.-service-headless-endpoint-externalname.md)
   * [30장. Volume - Dynamic Provisioning, StorageClass, Status, ReclaimPolicy](undefined-1/kubernetes/30-.-volume-dynamic-provisioning-storageclass-status-reclaimpolicy.md)
   * [31장. Volume - Dynamic Provisioning, StorageClass, Status, ReclaimPolicy](undefined-1/kubernetes/31-.-volume-dynamic-provisioning-storageclass-status-reclaimpolicy.md)
+  * [32장. Accessing API - Overview](undefined-1/kubernetes/32-.-accessing-api-overview.md)
+  * [33장. Authentication - X509 Certs, kubectl, ServiceAccount](undefined-1/kubernetes/33-.-authentication-x509-certs-kubectl-serviceaccount.md)
+  * [34장. Authentication - 실습](undefined-1/kubernetes/34-.-authentication.md)
+  * [35장. Authorization - RBAC, Role, RoleBinding](undefined-1/kubernetes/35-.-authorization-rbac-role-rolebinding.md)
+  * [36장. Authorization 실습](undefined-1/kubernetes/36-.-authorization.md)
+  * [37장. Kubernetes Dashboard](undefined-1/kubernetes/37-.-kubernetes-dashboard.md)
+  * [38장. Kubernetes Dashboard 실습](undefined-1/kubernetes/38-.-kubernetes-dashboard.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
 
