@@ -66,5 +66,7 @@
   * [36장. Authorization 실습](undefined-1/kubernetes/36-.-authorization.md)
   * [37장. Kubernetes Dashboard](undefined-1/kubernetes/37-.-kubernetes-dashboard.md)
   * [38장. Kubernetes Dashboard 실습](undefined-1/kubernetes/38-.-kubernetes-dashboard.md)
+  * [39장. StatefulSet](undefined-1/kubernetes/39-.-statefulset.md)
+  * [40장. StatefulSet Controller 실습](undefined-1/kubernetes/40-.-statefulset-controller.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
 
