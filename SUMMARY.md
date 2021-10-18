@@ -5,7 +5,7 @@
   * [Gradle](dev-tools/gradle.md)
   * [Gradle Multimodule](dev-tools/gradle-multimodule.md)
 
-## 개인 공부 <a id="my"></a>
+## 개인 공부 <a href="my" id="my"></a>
 
 * [Spring](my/spring-1.md)
 * [Kubernetes](my/kubernetes-1/README.md)
@@ -18,20 +18,20 @@
 ## 책
 
 * [토비의 스프링](undefined/spring/README.md)
-  * [1강 오브젝트와 의존관계](undefined/spring/toby_1_object_dependency.md)
+  * [1강 오브젝트와 의존관계](undefined/spring/toby\_1\_object_dependency.md)
 * [Clean-Code](undefined/clean-code/README.md)
   * [3장. 함수](undefined/clean-code/3-..md)
   * [1장. 깨끗한 코드](undefined/clean-code/1.md)
   * [2장. 네이밍](undefined/clean-code/2-..md)
 
-## 인강 <a id="undefined-1"></a>
+## 인강 <a href="undefined-1" id="undefined-1"></a>
 
 * [대세는 쿠버네티스](undefined-1/kubernetes/README.md)
   * [1강. Why Kubernetes?](undefined-1/kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](undefined-1/kubernetes/untitled.md)
   * [3강. Getting started - Kubernetes](undefined-1/kubernetes/3-.-getting-started-kubernetes.md)
-  * [4강. Getting started - Kubernetes - 실습 \(1\)](undefined-1/kubernetes/4-.-getting-started-kubernetes.md)
-  * [4강. Getting started - Kubernetes - 실습 \(2\)](undefined-1/kubernetes/4-.-getting-started-kubernetes-2.md)
+  * [4강. Getting started - Kubernetes - 실습 (1)](undefined-1/kubernetes/4-.-getting-started-kubernetes.md)
+  * [4강. Getting started - Kubernetes - 실습 (2)](undefined-1/kubernetes/4-.-getting-started-kubernetes-2.md)
   * [5강. Kubernetes Overview](undefined-1/kubernetes/5-.-kubernetes-overview.md)
   * [6강. Pod - Container, Label, NodeSchedule](undefined-1/kubernetes/6-.-pod-container-label-nodeschedule.md)
   * [7강. Pod 실습](undefined-1/kubernetes/7-.-pod.md)
@@ -68,5 +68,6 @@
   * [38장. Kubernetes Dashboard 실습](undefined-1/kubernetes/38-.-kubernetes-dashboard.md)
   * [39장. StatefulSet](undefined-1/kubernetes/39-.-statefulset.md)
   * [40장. StatefulSet Controller 실습](undefined-1/kubernetes/40-.-statefulset-controller.md)
+  * [41장. Ingress - Nginx](undefined-1/kubernetes/41-.-ingress-nginx.md)
+  * [42장. Ingress - 실습](undefined-1/kubernetes/42-.-ingress.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
-
