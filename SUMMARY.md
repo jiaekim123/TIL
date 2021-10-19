@@ -18,7 +18,7 @@
 ## 책
 
 * [토비의 스프링](undefined/spring/README.md)
-  * [1강 오브젝트와 의존관계](undefined/spring/toby\_1\_object_dependency.md)
+  * [1강 오브젝트와 의존관계](undefined/spring/toby\_1\_object\_dependency.md)
 * [Clean-Code](undefined/clean-code/README.md)
   * [3장. 함수](undefined/clean-code/3-..md)
   * [1장. 깨끗한 코드](undefined/clean-code/1.md)
@@ -70,4 +70,5 @@
   * [40장. StatefulSet Controller 실습](undefined-1/kubernetes/40-.-statefulset-controller.md)
   * [41장. Ingress - Nginx](undefined-1/kubernetes/41-.-ingress-nginx.md)
   * [42장. Ingress - 실습](undefined-1/kubernetes/42-.-ingress.md)
+  * [43장. Autoscaler - HPA](undefined-1/kubernetes/43-.-autoscaler-hpa.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
