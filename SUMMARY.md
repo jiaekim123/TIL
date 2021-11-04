@@ -71,4 +71,6 @@
   * [41장. Ingress - Nginx](undefined-1/kubernetes/41-.-ingress-nginx.md)
   * [42장. Ingress - 실습](undefined-1/kubernetes/42-.-ingress.md)
   * [43장. Autoscaler - HPA](undefined-1/kubernetes/43-.-autoscaler-hpa.md)
+  * [44장. Autoscaler](undefined-1/kubernetes/44-.-autoscaler.md)
+  * [45장. Kubernetes Architecture - Component](undefined-1/kubernetes/45-.-kubernetes-architecture-component.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
