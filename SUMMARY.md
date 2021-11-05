@@ -73,4 +73,6 @@
   * [43장. Autoscaler - HPA](undefined-1/kubernetes/43-.-autoscaler-hpa.md)
   * [44장. Autoscaler](undefined-1/kubernetes/44-.-autoscaler.md)
   * [45장. Kubernetes Architecture - Component](undefined-1/kubernetes/45-.-kubernetes-architecture-component.md)
+  * [46장. Kubernetes Architecture - Network](undefined-1/kubernetes/46-.-kubernetes-architecture-network.md)
+  * [47장. Kubernetes Architecture - Network 실습](undefined-1/kubernetes/47-.-kubernetes-architecture-network.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
