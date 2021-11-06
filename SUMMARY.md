@@ -75,4 +75,6 @@
   * [45장. Kubernetes Architecture - Component](undefined-1/kubernetes/45-.-kubernetes-architecture-component.md)
   * [46장. Kubernetes Architecture - Network](undefined-1/kubernetes/46-.-kubernetes-architecture-network.md)
   * [47장. Kubernetes Architecture - Network 실습](undefined-1/kubernetes/47-.-kubernetes-architecture-network.md)
+  * [48장. Kubernetes Architecture - Storage](undefined-1/kubernetes/48-.-kubernetes-architecture-storage.md)
+  * [49장. Kubernetes Architecture - Storage 실습](undefined-1/kubernetes/49-.-kubernetes-architecture-storage.md)
   * [CKA 자격증 개요](undefined-1/kubernetes/cka.md)
