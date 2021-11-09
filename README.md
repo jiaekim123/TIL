@@ -1,5 +1,3 @@
 # TIL
 
-## TIL 깃북 링크
-
-[https://app.gitbook.com/@hirlawldo413/s/til](https://app.gitbook.com/@hirlawldo413/s/til)
+[TIL 깃북 링크](https://hirlawldo413.gitbook.io/til/)
