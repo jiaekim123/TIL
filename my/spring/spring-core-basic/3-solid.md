@@ -40,3 +40,16 @@ Open Closed Principle
 
 ## DIP 의존관계 역전 원칙
 ![image](https://user-images.githubusercontent.com/37948906/140947470-f1ff97d9-5c1f-468f-ae13-10d876969d13.png)
+
+![image](https://user-images.githubusercontent.com/37948906/140948194-e1685fd0-2942-42a2-a97f-8528640807f9.png)
+
+
+## 정리
+- 객체 지향의 핵심은 다형성
+- 다형성만으로는 쉽게 부품을 갈아 끼우듯이 개발할 수 없다.
+- 다형성 만으로는 구현 객체를 변경할 때 클라이언트 코드도 함께 변경된다.
+- 다형성 만으로는 OCP, DIP를 지킬 수 없다.
+- 뭔가 더 필요하다.
+
+## 다음 시간
+객체 지향 설계와 스프링
