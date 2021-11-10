@@ -1,4 +1,4 @@
-# 프로젝트 생성
+# [스프링 핵심원리] 프로젝트 생성
 
 ![image](https://user-images.githubusercontent.com/37948906/140951914-2c70d67a-4cc0-41d6-a3fb-9706a3f59854.png)
 
