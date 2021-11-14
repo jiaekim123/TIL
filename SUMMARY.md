@@ -33,6 +33,8 @@
     * [22. 스프링 컨테이너 생성](my/spring/spring-core-basic/22-스프링컨테이너_생성.md)
     * [23. 스프링 컨테이너에 등록된 모든 빈 조회](my/spring/spring-core-basic/23-컨테이너에_등록된_모든_빈_조회.md)
     * [24. 스프링 빈 조회 기본](my/spring/spring-core-basic/24-스프링_빈_조회_기본.md)
+    * [25. 스프링 빈 조회 동일한 타입이 둘 이상](my/spring/spring-core-basic/25-스프링_빈_조회_동일한_타입이_둘_이상.md)
+    * [26. 스프링 빈 조회 - 상속 관계](my/spring/spring-core-basic/26-스프링_빈_조회_상속관계.md)
 * [Kubernetes](my/kubernetes-1/README.md)
   * [Docker hub로 로컬에 Kubernetes 설치하기](my/kubernetes-1/docker-hub-kubernetes.md)
 * [Java](my/java/README.md)
