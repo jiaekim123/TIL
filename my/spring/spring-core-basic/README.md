@@ -26,3 +26,4 @@
 - [24. 스프링 빈 조회 기본](24-스프링_빈_조회_기본.md)
 - [25. 스프링 빈 조회 동일한 타입이 둘 이상](25-스프링_빈_조회_동일한_타입이_둘_이상.md)
 - [26. 스프링 빈 조회 - 상속 관계](26-스프링_빈_조회_상속관계.md)
+- [27. BeanFactory와 ApplicationContext](27-BeanFacotry와_ApplicationContext.md)
