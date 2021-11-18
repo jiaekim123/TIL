@@ -27,3 +27,6 @@
 - [25. 스프링 빈 조회 동일한 타입이 둘 이상](25-스프링_빈_조회_동일한_타입이_둘_이상.md)
 - [26. 스프링 빈 조회 - 상속 관계](26-스프링_빈_조회_상속관계.md)
 - [27. BeanFactory와 ApplicationContext](27-BeanFacotry와_ApplicationContext.md)
+- [28. 다양한 설정 형식 지원 자바 코드](28-다양한_설정_형식_지원_자바_코드_xml.md)
+- [29. 스프링 빈 메타 정보 BeanDefinition](29-스프링_빈_메타_정보_BeanDefinition.md)
+
