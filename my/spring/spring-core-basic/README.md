@@ -29,4 +29,6 @@
 - [27. BeanFactory와 ApplicationContext](27-BeanFacotry와_ApplicationContext.md)
 - [28. 다양한 설정 형식 지원 자바 코드](28-다양한_설정_형식_지원_자바_코드_xml.md)
 - [29. 스프링 빈 메타 정보 BeanDefinition](29-스프링_빈_메타_정보_BeanDefinition.md)
+- [30. 웹 애플리케이션과 싱글톤](30-웹_애플리케이션과_싱글톤.md)
+- [31. 싱글톤 패턴](31-싱글톤패턴.md)
 
