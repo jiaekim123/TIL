@@ -59,7 +59,7 @@
     * [48. 자동 수동의 올바른 실무 기준](my/spring/spring-core-basic/48-자동_수동의_올바른_실무운영기준.md)
     * [49. 빈 생명주기 콜백 시작](my/spring/spring-core-basic/49-빈생명주기_콜백시작.md)
     * [50. 인터페이스 InitializingBean, DisposableBean](my/spring/spring-core-basic/50-인터페이스_InitializingBean_DisposableBean.md)
-    * [51. 빈 등록 초기화, 소멸 메서드](my/spring/spring-core-basic/51-빈_등록_초기화_소멸_메서드.md.md)
+    * [51. 빈 등록 초기화, 소멸 메서드](my/spring/spring-core-basic/51-빈_등록_초기화_소멸_메서드.md)
     * [52. 애너테이션 PostConstructor, PreDestroy](my/spring/spring-core-basic/52-애너테이션_PostConstructor_PreDestroy.md)
     * [53. 빈 스코프란](my/spring/spring-core-basic/53-빈_스코프란.md)
 * [Kubernetes](my/kubernetes-1/README.md)
