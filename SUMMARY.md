@@ -8,11 +8,13 @@
 ## 개인 공부 <a href="my" id="my"></a>
 
 * [Spring](my/spring-1.md)
+  * [스프링 WebFlux](my/spring/spring-core-basic/README.md)
+    * [Spring MVC와 WebFlux 차이점](my/spring/webflux/spring_mvc_vx_webflux.md)
   * [스프링 핵심원리](my/spring/spring-core-basic/README.md)
     * [1. 스프링이란?](my/spring/spring-core-basic/1-what-is-spring.md)
     * [2. 좋은 객체 지향이란?](my/spring/spring-core-basic/2-what-is-good-oop.md)
     * [3. 좋은 객체 지향 설계의 5가지 원칙](my/spring/spring-core-basic/3-solid.md)
-    * [4. 객체 지향 설계와 스프링](4-oop-and-my/spring/spring-core-basic/4-oop-and-spring.md)
+    * [4. 객체 지향 설계와 스프링](my/spring/spring-core-basic/4-oop-and-spring.md)
     * [5. 프로젝트 생성](my/spring/spring-core-basic/5-project-init.md)
     * [6. 비즈니스 요구사항과 설계](my/spring/spring-core-basic/6-비즈니스-요구사항.md)
     * [7. 회원 도메인 설계](my/spring/spring-core-basic/7-회원도메인설계.md)
