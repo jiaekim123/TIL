@@ -10,6 +10,7 @@
 * [Spring](my/spring-1.md)
   * [JPA](my/spring/jpa/README.md)
     * [JPA 란?](my/spring/jpa/1_what_is_jpa.md)
+    * [JPA 소개](my/spring/jpa/2_jpa_소개.md)
   * [스프링 WebFlux](my/spring/spring-core-basic/README.md)
     * [Spring MVC와 WebFlux 차이점](my/spring/webflux/spring_mvc_vx_webflux.md)
   * [스프링 핵심원리](my/spring/spring-core-basic/README.md)
