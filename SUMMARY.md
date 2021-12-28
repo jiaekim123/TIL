@@ -77,7 +77,9 @@
   * [Docker hub로 로컬에 Kubernetes 설치하기](my/kubernetes-1/docker-hub-kubernetes.md)
 * [Java](my/java/README.md)
   * [JDK 17](my/java/jdk-17.md)
-  * [객체지향의 사실과 오해 1장](my/java/oop1.md)
+  * [객체지향의 사실과 오해 1장 - 협력하는 객체들의 공동체](my/java/oop1.md)
+  * [객체지향의 사실과 오해 2장 - 이상한 나라의 객체](my/java/oop2.md)
+
 * [Kotelin](my/kotelin/README.md)
   * [Kotlin + Spring](my/kotelin/kotlin-+-spring.md)
 
