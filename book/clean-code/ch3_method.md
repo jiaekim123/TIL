@@ -370,7 +370,7 @@ public enum Error {
 ## 예시 코드
 
 <details>
-<summery>SetupTeardownIncluder.java</summery>
+<summary>SetupTeardownIncluder.java</summary>
 <div markdown="1">
 
 ```java
