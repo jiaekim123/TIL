@@ -88,6 +88,12 @@
 * [Kotlin](my/kotlin/README.md)
   * [Kotlin + Spring](my/kotlin/kotlin-+-spring.md)
 
+## AI
+
+* [AI](ai/README.md)
+  * [Claude](ai/claude/README.md)
+    * [Claude Code Mobile과 GitHub 연동](ai/claude/claude-code-mobile-github.md)
+
 ## book
 
 * [토비의 스프링](book/toby-spring/README.md)
