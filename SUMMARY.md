@@ -85,8 +85,8 @@
   * [객체지향의 사실과 오해 6장 - 객체 지도](my/java/oop6.md)
   * [객체지향의 사실과 오해 7장 - 함께 모으기](my/java/oop7.md)
 
-* [Kotelin](my/kotelin/README.md)
-  * [Kotlin + Spring](my/kotelin/kotlin-+-spring.md)
+* [Kotlin](my/kotlin/README.md)
+  * [Kotlin + Spring](my/kotlin/kotlin-+-spring.md)
 
 ## book
 
@@ -114,6 +114,7 @@
 
 ## 클라우드 <a href="cloud" id="cloud"></a>
 
+* [AWS](cloud/aws/README.md)
 * [대세는 쿠버네티스](cloud/kubernetes/README.md)
   * [1강. Why Kubernetes?](cloud/kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](cloud/kubernetes/2-.-vm-vs-container.md)
