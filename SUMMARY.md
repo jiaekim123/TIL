@@ -7,7 +7,7 @@
 
 ## 개인 공부 <a href="my" id="my"></a>
 
-* [Spring](my/spring-1.md)
+* [Spring](my/spring/README.md)
   * [JPA](my/spring/jpa/README.md)
     * [JPA 란?](my/spring/jpa/1_what_is_jpa.md)
     * [JPA 소개](my/spring/jpa/2_jpa_소개.md)
@@ -114,7 +114,7 @@
   * [13장. 동시성](book/clean-code/ch13_동시성.md)
   * [14장. 점진적인 개선](book/clean-code/ch14_점진적인개선.md)
   * [15장. junit](book/clean-code/ch15_junit.md)
-  * [16장. SerialDate 리팩토링](book/clean-code/ch16_SerialDate_리팩터링.md)
+  * [16장. SerialDate 리팩토링](book/clean-code/ch16_SirialDate_리팩터링.md)
   * [17장. 냄새와 휴리스틱](book/clean-code/ch17_냄새와휴리스틱.md)
   * [부록A. 동시성](book/clean-code/부록A_동시성.md)
 
@@ -126,7 +126,6 @@
   * [1강. Why Kubernetes?](cloud/kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](cloud/kubernetes/2-.-vm-vs-container.md)
   * [3강. Getting started - Kubernetes](cloud/kubernetes/3-.-getting-started-kubernetes.md)
-  * [4강. Getting started - Kubernetes - 실습 (1)](cloud/kubernetes/4-.-getting-started-kubernetes-1.md)
   * [4강. Getting started - Kubernetes - 실습 (2)](cloud/kubernetes/4-.-getting-started-kubernetes-2.md)
   * [5강. Kubernetes Overview](cloud/kubernetes/5-.-kubernetes-overview.md)
   * [6강. Pod - Container, Label, NodeSchedule](cloud/kubernetes/6-.-pod-container-label-nodeschedule.md)
@@ -176,4 +175,3 @@
   * [50강. Logging - PLG Stack](cloud/kubernetes/50-.-logging-plg-stack.md)
   * [51강. Logging 실습](cloud/kubernetes/51-.-logging.md)
   * [CKA 자격증 개요](cloud/kubernetes/cka.md)
-  * [별책부록. Kubernetes 설치](cloud/kubernetes/52-.-kubernetes-install.md)
