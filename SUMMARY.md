@@ -115,6 +115,7 @@
 ## 클라우드 <a href="cloud" id="cloud"></a>
 
 * [AWS](cloud/aws/README.md)
+  * [OpenSearch](cloud/aws/opensearch.md)
 * [대세는 쿠버네티스](cloud/kubernetes/README.md)
   * [1강. Why Kubernetes?](cloud/kubernetes/1-.-why-kubernetes.md)
   * [2강. VM vs Container](cloud/kubernetes/2-.-vm-vs-container.md)
