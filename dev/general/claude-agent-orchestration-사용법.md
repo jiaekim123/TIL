@@ -1,45 +1,61 @@
 # Claude Agent Orchestration 사용법
 
 ## 개요
-이 문서는 Claude Agent Orchestration 기능을 효과적으로 활용하는 방법에 대해 설명합니다. Claude Agent Orchestration은 다양한 AI 에이전트를 통합 관리할 수 있는 기능으로, 복잡한 작업을 쉽게 자동화할 수 있습니다.
+
+Claude Agent Orchestration은 여러 개의 AI 에이전트를 관리하고 조율하는 시스템입니다. 이를 통해 복잡한 작업을 수행하거나 다양한 기능을 제공할 수 있습니다. 이 문서에서는 Claude Agent Orchestration의 주요 개념과 사용 방법을 소개합니다.
 
 ## 주요 개념
-- **에이전트**: 특정 작업을 수행하는 개별 AI 모델 또는 서비스
-- **오케스트레이션**: 다양한 에이전트를 체계적으로 조율하여 복합적인 작업을 수행하는 프로세스
-- **워크플로**: 에이전트 간의 정보 흐름과 작업 순서를 정의한 프로세스 모델
+
+1. **Agent**: Claude Agent Orchestration의 기본 단위로, 특정 기능을 수행하는 AI 모델입니다. 예를 들어 문장 생성, 이미지 생성, 번역 등의 기능을 가진 Agent가 있습니다.
+
+2. **Orchestration**: 여러 Agent를 조율하여 복합적인 작업을 수행하는 것을 의미합니다. 예를 들어 문장 생성 Agent와 이미지 생성 Agent를 연계하여 이미지와 설명 문구를 함께 생성할 수 있습니다.
+
+3. **Prompt**: Agent에게 입력으로 제공되는 문장으로, Agent의 출력 결과에 영향을 미칩니다. Prompt 설계는 Agent 활용의 핵심이 됩니다.
+
+4. **Context**: Agent 간 정보를 공유하기 위해 사용되는 데이터 구조입니다. Orchestration 과정에서 Agent 간 Context를 전달하여 연계 작업을 수행할 수 있습니다.
 
 ## 사용 예시
-다음은 Claude Agent Orchestration을 활용한 예시입니다. 이 예시에서는 텍스트 요약, 감정 분석, 번역의 3가지 작업을 순차적으로 수행합니다.
+
+다음은 Claude Agent Orchestration을 활용한 예시 코드입니다. 문장 생성 Agent와 이미지 생성 Agent를 연계하여 이미지와 설명 문구를 생성합니다.
 
 ```python
-from claude.orchestration import Workflow, Agent
+from claude_agent_orchestration import Agent, Orchestrator
 
-# 에이전트 정의
-summarizer = Agent("text-summarizer")
-sentiment_analyzer = Agent("sentiment-analyzer")
-translator = Agent("translator")
+# 문장 생성 Agent
+text_agent = Agent(
+    name="text_generator",
+    model_path="path/to/text_generation_model"
+)
 
-# 워크플로 정의
-workflow = Workflow()
-workflow.add_step(summarizer, input_key="text", output_key="summary")
-workflow.add_step(sentiment_analyzer, input_key="summary", output_key="sentiment")
-workflow.add_step(translator, input_key="summary", output_key="translated_text")
+# 이미지 생성 Agent  
+image_agent = Agent(
+    name="image_generator",
+    model_path="path/to/image_generation_model"
+)
 
-# 워크플로 실행
-input_text = "이 문서는 Claude Agent Orchestration의 사용 방법을 설명합니다. 이 기능을 통해 다양한 AI 에이전트를 통합하고 자동화할 수 있습니다."
-result = workflow.run({"text": input_text})
+# Orchestrator 생성
+orchestrator = Orchestrator()
+orchestrator.register_agent(text_agent)
+orchestrator.register_agent(image_agent)
 
-print("요약:", result["summary"])
-print("감정:", result["sentiment"])
-print("번역:", result["translated_text"])
+# Orchestration 실행
+prompt = "A happy dog playing in a field of flowers."
+context = {}
+result = orchestrator.execute(prompt, context)
+
+# 결과 출력
+print(f"Generated Image: {result['image']}")
+print(f"Generated Text: {result['text']}")
 ```
 
 ## 주의사항
-- 각 에이전트의 입력/출력 키가 워크플로 정의와 일치해야 합니다.
-- 에이전트 간 데이터 호환성을 고려해야 합니다.
-- 워크플로 실행 시 예외 처리 및 오류 처리를 반드시 구현해야 합니다.
+
+1. Agent 간 Context 전달이 원활하도록 데이터 구조를 설계해야 합니다.
+2. Prompt 설계 시 각 Agent의 특성을 고려해야 합니다.
+3. 자원 소모가 큰 작업의 경우 병렬 처리 등 최적화가 필요할 수 있습니다.
 
 ## 참고자료
-- [Claude Agent Orchestration 공식 문서](https://claude.anthropic.com/docs/orchestration)
-- [Claude Agent Orchestration 튜토리얼](https://claude.anthropic.com/docs/orchestration/tutorial)
-- [Claude Agent 목록](https://claude.anthropic.com/docs/agents)
+
+- [Claude Agent Orchestration 공식 문서](https://docs.claude.ai/orchestration)
+- [Agent 설계 및 Prompt 최적화 가이드](https://blog.claude.ai/agent-design-and-prompt-optimization)
+- [Orchestration 사용 사례 및 모범 사례](https://examples.claude.ai/orchestration)
